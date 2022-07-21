@@ -11,7 +11,7 @@ public class OrganisationAutomationtest {
 		Reporter.log("vehicle");
 	       Reporter.log("car");
 	       Reporter.log("train");
-	       Reporter.log("Helicopter");
+	       Reporter.log("Helicopter1");
 	       //HI
 		
 	}
