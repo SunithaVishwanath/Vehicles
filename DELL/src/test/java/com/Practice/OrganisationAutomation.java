@@ -8,6 +8,8 @@ public class OrganisationAutomation {
 	public void organisationName()
 	{
 		Reporter.log("hello");
+		Reporter.log("vehicle");
+		
 	}
 	
 }
