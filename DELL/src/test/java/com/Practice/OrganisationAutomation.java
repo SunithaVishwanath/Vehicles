@@ -9,7 +9,8 @@ public class OrganisationAutomation {
 	{
 		Reporter.log("hello");
 		Reporter.log("vehicle");
-	       Reporter.log("car");		
+	       Reporter.log("car");
+	       Reporter.log("train");
 		
 	}
 	
