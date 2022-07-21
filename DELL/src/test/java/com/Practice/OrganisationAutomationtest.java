@@ -3,7 +3,7 @@ package com.Practice;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class OrganisationAutomation {
+public class OrganisationAutomationtest {
 	@Test
 	public void organisationName()
 	{
@@ -11,6 +11,7 @@ public class OrganisationAutomation {
 		Reporter.log("vehicle");
 	       Reporter.log("car");
 	       Reporter.log("train");
+	       Reporter.log("Helicopter");
 		
 	}
 	
