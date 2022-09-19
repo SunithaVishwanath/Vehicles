@@ -13,6 +13,19 @@ public class OrganisationAutomationtest {
 	       Reporter.log("train");
 	       Reporter.log("Helicopter1");
 	       //HI
+	       
+	       Reporter.log("hello");
+			Reporter.log("vehicle");
+		       Reporter.log("car");
+		       Reporter.log("train");
+		       Reporter.log("Helicopter1");
+		       //
+		       
+		       Reporter.log("hello");
+				Reporter.log("vehicle");
+			       Reporter.log("car");
+			       Reporter.log("train");
+			       Reporter.log("Helicopter1");
 		
 	}
 	
